@@ -1,0 +1,80 @@
+[
+  {
+    "member_id": "M001",
+    "name": "Riya Kapoor",
+    "phone": "+91 98201 23456",
+    "email": "riya.kapoor@example.com",
+    "address": "14 Carmichael Road, Cumballa Hill, Mumbai 400026",
+    "card": {"brand": "Amex", "last4": "8812", "expiry": "09/29"},
+    "family": [
+      {"name": "Arjun Kapoor", "relation": "husband"},
+      {"name": "Anaya Kapoor", "relation": "daughter"}
+    ],
+    "preferences": ["no shellfish", "corner tables", "quiet rooms"],
+    "group_id": "G-101"
+  },
+  {
+    "member_id": "M002",
+    "name": "Vikram Mehta",
+    "phone": "+91 99300 45678",
+    "email": "vikram.mehta@example.com",
+    "address": "Flat 1202, Sea Breeze, Worli, Mumbai 400018",
+    "card": {"brand": "Visa", "last4": "3391", "expiry": "11/28"},
+    "family": [
+      {"name": "Anjali Mehta", "relation": "wife"},
+      {"name": "Kiaan Mehta", "relation": "son"}
+    ],
+    "preferences": ["sea view", "vegetarian wife", "early dinners"],
+    "group_id": "G-102"
+  },
+  {
+    "member_id": "M003",
+    "name": "Sameer Rao",
+    "phone": "+91 98450 77812",
+    "email": "sameer.rao@example.com",
+    "address": "22 Palace Cross Road, Bengaluru 560020",
+    "card": {"brand": "Mastercard", "last4": "5520", "expiry": "02/30"},
+    "family": [
+      {"name": "Divya Rao", "relation": "wife"}
+    ],
+    "preferences": ["live music", "Japanese food"],
+    "group_id": "G-103"
+  },
+  {
+    "member_id": "M004",
+    "name": "Priya Nair",
+    "phone": "+91 97690 33120",
+    "email": "priya.nair@example.com",
+    "address": "7 Pali Hill, Bandra West, Mumbai 400050",
+    "card": {"brand": "Visa", "last4": "7104", "expiry": "06/27"},
+    "family": [
+      {"name": "Rahul Nair", "relation": "husband"}
+    ],
+    "preferences": ["outdoor seating", "big family lunches"],
+    "group_id": "G-104"
+  },
+  {
+    "member_id": "M005",
+    "name": "Kabir Singh",
+    "phone": "+91 98110 90876",
+    "email": "kabir.singh@example.com",
+    "address": "B-14 Vasant Vihar, New Delhi 110057",
+    "card": {"brand": "Amex", "last4": "6630", "expiry": "01/31"},
+    "family": [
+      {"name": "Meher Singh", "relation": "wife"}
+    ],
+    "preferences": ["late dinners", "cocktail bars"],
+    "group_id": "G-105"
+  },
+  {
+    "member_id": "M006",
+    "name": "Tara Sethi",
+    "phone": "+91 99870 11223",
+    "email": "tara.sethi@example.com",
+    "address": "3 Altamount Road, Mumbai 400026",
+    "card": {"brand": "Visa", "last4": "2209", "expiry": "03/29"},
+    "family": [],
+    "preferences": ["flowers", "art openings"],
+    "group_id": "G-106"
+  }
+]

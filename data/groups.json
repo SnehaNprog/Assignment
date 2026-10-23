@@ -1,0 +1,57 @@
+[
+  {
+    "group_id": "G-101",
+    "member_id": "M001",
+    "title": "Riya Kapoor x Concierge",
+    "history": [
+      {"sender": "Nisha (Concierge)", "text": "Good morning Riya! Hope the weekend was lovely."},
+      {"sender": "Riya Kapoor", "text": "It was 🙂 thank you for the flowers"},
+      {"sender": "Arjun Kapoor", "text": "👍"}
+    ]
+  },
+  {
+    "group_id": "G-102",
+    "member_id": "M002",
+    "title": "Vikram Mehta x Concierge",
+    "history": [
+      {"sender": "Vikram Mehta", "text": "Thanks for sorting the airport pickup last week"},
+      {"sender": "Rohan (Concierge)", "text": "Always a pleasure, Vikram."}
+    ]
+  },
+  {
+    "group_id": "G-103",
+    "member_id": "M003",
+    "title": "Sameer Rao x Concierge",
+    "history": [
+      {"sender": "Sameer Rao", "text": "<voice note, 0:14>"},
+      {"sender": "Ishita (Concierge)", "text": "Noted Sameer, will update you by evening."}
+    ]
+  },
+  {
+    "group_id": "G-104",
+    "member_id": "M004",
+    "title": "Priya Nair x Concierge",
+    "history": [
+      {"sender": "Priya Nair", "text": "ok"},
+      {"sender": "Priya Nair", "text": "thank youuu"}
+    ]
+  },
+  {
+    "group_id": "G-105",
+    "member_id": "M005",
+    "title": "Kabir Singh x Concierge",
+    "history": [
+      {"sender": "Kabir Singh", "text": "bhai last time ka table ekdum mast tha"},
+      {"sender": "Aman (Concierge)", "text": "So glad Kabir! 🙏"}
+    ]
+  },
+  {
+    "group_id": "G-106",
+    "member_id": "M006",
+    "title": "Tara Sethi x Concierge",
+    "history": [
+      {"sender": "Tara Sethi", "text": "<photo>"},
+      {"sender": "Meera (Concierge)", "text": "Beautiful! Enjoy the opening tonight."}
+    ]
+  }
+]

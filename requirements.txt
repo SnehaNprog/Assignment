@@ -1,0 +1,6 @@
+# The world and the fake model need nothing beyond the Python standard library.
+pytest>=8
+# Only for --live runs against real Claude:
+anthropic
+# For the small-model part, use whatever you like (scikit-learn, PyTorch, ...).
+# Add it here.

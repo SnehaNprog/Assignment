@@ -1,0 +1,23 @@
+[
+  {
+    "vendor_id": "V-BOOKBOT",
+    "name": "BookBot",
+    "kind": "ai_agent",
+    "categories": ["dining", "events"],
+    "notes": "An outside AI booking agent run by another company. Replies in minutes. It is NOT part of our company: share only what the booking needs."
+  },
+  {
+    "vendor_id": "V-TABLEDESK",
+    "name": "Tabledesk",
+    "kind": "human",
+    "categories": ["dining"],
+    "notes": "A human dining desk. Reliable but slow (replies in hours)."
+  },
+  {
+    "vendor_id": "V-CITYCARS",
+    "name": "City Cars",
+    "kind": "human",
+    "categories": ["transport"],
+    "notes": "Chauffeur and airport transfers."
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "booking_name": "Indulge Concierge",
+  "house_phone": "+91 22 4000 0000",
+  "house_email": "bookings@concierge.example",
+  "venues": ["Casa Lumen", "Saffron Terrace", "The Blue Door", "Koen", "Mirabelle"],
+  "rule": "Outside vendors may receive: venue, date, time, number of guests, occasion in general words, dietary needs, and the house booking name and contacts above. Nothing that identifies the member or their family."
+}
