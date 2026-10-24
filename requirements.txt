@@ -3,4 +3,7 @@ pytest>=8
 # Only for --live runs against real Claude:
 anthropic
 # For the small-model part, use whatever you like (scikit-learn, PyTorch, ...).
-# Add it here.
+# Add it here. classifier/model.joblib was trained with scikit-learn 1.9.1; other
+# versions may warn when loading it, so retrain with `python -m classifier.train`.
+scikit-learn>=1.5
+joblib>=1.3
